@@ -9,4 +9,5 @@
 1. Decide on the format I'll be uploading my logic in
 	- Keeping the code intact from Leetcode, just changing the processing format? 
 	- Replicating code everytime i write a problem.
-2. Start with day 1 ASAP.
+2. Choose the programming language to begin with Python / C++ (I'd prefer C++)
+3. Start with day 1 ASAP.

@@ -10,7 +10,7 @@
 	- Keeping the code intact from Leetcode, just changing the processing format? 
 	- Replicating code everytime i write a problem.
 2. Choose the programming language to begin with Python / C++ / Rust (I'd prefer C++)
-	- For now I'll be implementing in rust first and port the code to c++ as well.
+	- For now I'll be implementing in c++ first and port the code to other language (rust) if i feel like it.
 	- Reason : This would help me learn a new language, while I'd think critically over the data structures part as well. Moreover, my familiarity with C++ isn't as good as it should be, this way, i would also get to know how rust performs better than C++.
 
 3. Start with day 1 ASAP.

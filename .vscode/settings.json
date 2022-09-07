@@ -1,6 +1,4 @@
 {
-	"files.associations": {
-		"iostream": "cpp",
-		"random": "cpp"
-	}
+	"editor.wordWrap" :"on",
+
 }
